@@ -1,0 +1,1 @@
+perl corpus_normalization.pl < Selma.txt | perl sentence_likelihood.pl
